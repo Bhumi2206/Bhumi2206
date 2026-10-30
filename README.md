@@ -32,7 +32,7 @@ I'm a Computer Science undergraduate passionate about building useful web applic
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
