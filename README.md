@@ -60,27 +60,29 @@ A personal expense tracking application to manage income and expenses, organize 
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhumi2206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bhumi's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumi2206&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Bhumi2206&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhumi2206&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ### ⭐ GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhumi2206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Bhumi2206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhumi2206&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Bhumi2206&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📈 Contribution Activity Graph
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumi2206&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumi2206&theme=tokyo-night" />
 </p>
 
 ---
