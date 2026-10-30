@@ -101,6 +101,3 @@ A personal expense tracking application to manage income and expenses, organize 
   💙 <i>Building, learning, and improving one commit at a time.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhumi2206&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
