@@ -68,9 +68,6 @@ A personal expense tracking application to manage income and expenses, organize 
 
 ### ⭐ GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Bhumi2206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 ### 🔥 Contribution Streak
 
@@ -78,12 +75,6 @@ A personal expense tracking application to manage income and expenses, organize 
   <img src="https://streak-stats.demolab.com?user=Bhumi2206&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📈 Contribution Activity Graph
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumi2206&theme=tokyo-night" />
-</p>
 
 ---
 
