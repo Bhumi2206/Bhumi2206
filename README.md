@@ -66,7 +66,7 @@ A personal expense tracking application to manage income and expenses, organize 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhumi2206&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-### ⭐ GitHub Achievements
+
 
 
 ### 🔥 Contribution Streak
