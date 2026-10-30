@@ -54,7 +54,7 @@ A personal expense tracking application to manage income and expenses, organize 
 **Tech:** React.js | JavaScript | Tailwind CSS | LocalStorage
 
 <!-- Replace the link below with your actual Money Mirror repository URL -->
-[📂 Source Code](https://github.com/Bhumi2206)
+[🔗 Live Demo](https://money-mirror-three.vercel.app/) • [📂 Source Code](https://github.com/Bhumi2206/MoneyMirror)
 
 ---
 
