@@ -17,7 +17,7 @@ I'm a Computer Science undergraduate passionate about building useful web applic
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
 </p>
 
 ### Frontend Development
